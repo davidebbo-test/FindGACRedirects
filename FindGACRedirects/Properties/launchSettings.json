@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FindGACRedirects": {
+      "commandName": "Project",
+      "commandLineArgs": "gac.txt web.config",
+      "workingDirectory": "..\\TestFiles"
+    }
+  }
+}
